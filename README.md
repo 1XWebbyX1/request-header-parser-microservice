@@ -15,10 +15,10 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/1XWebbyX1/request-header-parser
+$ git clone https://github.com/1XWebbyX1/request-header-parser-microservice
 
 # Go into the repository
-$ cd request-header-parser
+$ cd request-header-parser-microservice
 
 # Install dependencies
 $ npm install
